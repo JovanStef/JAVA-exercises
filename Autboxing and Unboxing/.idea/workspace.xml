@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1867130-54bb-4a42-8ea0-652520bc154e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2TH6nPWTHR8FML8Mw50L44YhK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Autboxing and Unboxing" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1867130-54bb-4a42-8ea0-652520bc154e" name="Default Changelist" comment="" />
+      <created>1585932597315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585932597315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1585936553327">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="488" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1585936553327" />
+    <state width="1314" height="147" key="GridCell.Tab.0.bottom" timestamp="1585941966932">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="147" key="GridCell.Tab.0.bottom/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1585941966932" />
+    <state width="1314" height="147" key="GridCell.Tab.0.center" timestamp="1585941966928">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="147" key="GridCell.Tab.0.center/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1585941966928" />
+    <state width="1314" height="147" key="GridCell.Tab.0.left" timestamp="1585941966928">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="147" key="GridCell.Tab.0.left/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1585941966928" />
+    <state width="1314" height="147" key="GridCell.Tab.0.right" timestamp="1585941966928">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="147" key="GridCell.Tab.0.right/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1585941966928" />
+    <state x="0" y="27" width="1350" height="741" key="new project wizard" timestamp="1586189655421">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="0" y="27" width="1350" height="741" key="new project wizard/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1586189655421" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585940444853">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1360.741/1360.0.1360.768@0.27.1360.741" timestamp="1585940444853" />
+  </component>
+</project>
