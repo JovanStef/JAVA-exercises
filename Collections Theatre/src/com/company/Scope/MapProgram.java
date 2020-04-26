@@ -26,6 +26,17 @@ public class MapProgram {
 
         System.out.println("/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/");
 
+//        languages.remove("Algol");
+if(languages.remove("Algol","Algol language")){
+    System.out.println("Algol removed");
+}else{
+    System.out.println("Algol not removed");
+}
+if(languages.replace("Python" , "This will not work" , "python language")){
+    System.out.println("Python was replaced");
+}else{
+    System.out.println("Python was not replaced");
+}
         for (String key:languages.keySet()) {
             System.out.println(key + " : " + languages.get(key));
         }
